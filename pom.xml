@@ -43,11 +43,7 @@
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
 					
-					
-					<!--  TROCAR  -->
-					
-					
-					<outputDirectory>CAMINHO</outputDirectory>
+
 				</configuration>
 				<executions>
 					<execution>
